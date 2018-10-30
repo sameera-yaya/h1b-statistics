@@ -16,4 +16,4 @@ The program reads the file line by line and inserts the data into a ArrayList of
 Using Enumerations and ArrayLists and Hashtables, the data is sorted while still keeping the key-value pairs from the original hashtable. The name of the occupation/state and the number of applications with the occupation/state along with the percentage of the entire data set is printed in the respective text files. 
 
 ## Run
-The program was written in Java using Eclipse IDE in Windows OS. The program is not at its most optimized state but the directory structure and format are correct. The output files are not cleared after each run of the program so to get the best results, the output files have to be deleted before each run.
+The program was written in Java using Eclipse IDE in Windows OS. The program is not at its most optimized state but the directory structure and format are correct. The input and output files have to be in the same folder as the program itself for it to work properly. The output files are not cleared after each run of the program so to get the best results, the output files have to be deleted before each run. 
