@@ -1,7 +1,7 @@
 # H1B Statistics
 Sameera Yayavaram
 Written in Java using Eclipse IDE
-#
+
 ## Problem
 The US Department of Labor and its Office of Foreign Labor Certification Performance Data have some statistics available of immigration data trends on H1B visa applications. A program should be created to analyze past years data and calculate the top 10 occupations and top 10 states for certified visa applications.
 
